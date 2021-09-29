@@ -1,2 +1,2 @@
 # hanhcore
-hanhcore
+**This repository is deprecated.** 
